@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Manali0712
+- 👋 Hi, I’m @ Manali Chahande
 - 👀 I’m interested in i like to learn something new, i like to explore new places and meeting new people.
 - 🌱 I’m currently learning MERN Stack 
 - 💞️ I’m looking to collaborate on Web Designing
